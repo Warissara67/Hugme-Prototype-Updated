@@ -1,0 +1,1 @@
+import{t as e}from"./index-DdytXovo.js";import{t}from"./app-Df4GcW_Y.js";var n=e(),r=()=>(0,n.jsx)(t,{initialPage:`home`});export{r as component};
